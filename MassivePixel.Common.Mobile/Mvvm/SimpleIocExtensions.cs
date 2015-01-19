@@ -1,7 +1,7 @@
 ﻿using System;
 using GalaSoft.MvvmLight.Ioc;
 
-namespace MassivePixel.Common.Mvvm
+namespace MassivePixel.Common.Mobile.Mvvm
 {
     public static class SimpleIocExtensions
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.Runtime.CompilerServices;
 
-namespace MassivePixel.Common.Mvvm
+namespace MassivePixel.Common.Mobile.Mvvm
 {
     public class ViewModelBase : GalaSoft.MvvmLight.ViewModelBase
     {

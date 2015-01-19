@@ -1,7 +1,7 @@
 ﻿using GalaSoft.MvvmLight.Ioc;
 using Microsoft.Practices.ServiceLocation;
 
-namespace MassivePixel.Common.Mvvm
+namespace MassivePixel.Common.Mobile.Mvvm
 {
     public class ViewModelLocatorBase<TLocator>
         where TLocator : ViewModelLocatorBase<TLocator>, new()
